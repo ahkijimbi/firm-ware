@@ -5,5 +5,5 @@ My journey into Firmware Engineering.
 
 ```Awesome Open Source
     The Top Firmware Open Source Projects
-    [Awesome Open Source](https://awesomeopensource.com/projects/firmware) - Top 143 Firmware Open Source Projects
+    [Awesome Open Source](https://awesomeopensource.com/projects/firmware)
 ```
